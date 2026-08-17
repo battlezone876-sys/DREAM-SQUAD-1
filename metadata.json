@@ -1,0 +1,6 @@
+{
+  "name": "DREAM SQUAD - Tournament Platform",
+  "description": "Premium Free Fire tournament platform with dynamic wallet, live chat support with automated routing, admin UID winner prize distribution, real-time notifications, and full admin customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
